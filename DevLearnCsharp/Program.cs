@@ -13,6 +13,7 @@ namespace DevLearnCsharp
             Console.WriteLine("my first githb project");
             Console.WriteLine("this is second succesfull execution");
             Console.WriteLine("this is awesome to use git");
+            Console.Write("this si done");
         }
     }
 }
