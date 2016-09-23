@@ -11,7 +11,9 @@ namespace DevLearnCsharp
     {
         static void Main(string[] args)
         {
-          
+            goto2 g2 = new goto2();
+            g2.addition();
+
         }
     }
 }
