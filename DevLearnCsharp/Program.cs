@@ -15,7 +15,7 @@ namespace DevLearnCsharp
             Console.WriteLine("this is awesome to use git");
             Console.Write("this si done");
             Console.WriteLine("this  is my first line today");
-        
+            Console.Write("this is great to use git");
         }
     }
 }
