@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DevLearnCsharp
 {
+  
     class Program
     {
         static void Main(string[] args)
@@ -31,6 +32,9 @@ namespace DevLearnCsharp
             }
 
             Console.ReadLine();
+            goto2 g2 = new goto2();
+            g2.addition();
+
         }
     }
 }
