@@ -12,12 +12,20 @@ namespace DevLearnCsharp
         static void Main(string[] args)
         {
 
-            GradeBook book  = new GradeBook();
+            GradeBook book  = new GradeBook();    // becomes garbage ... afte secong object created
 
             book.AddGrade(91);
             book.AddGrade(89.5f);
 
+          // book = new GradeBook();
+            book.AddGrade(34); // only acccess to second object
 
+
+            GradeBook book2 = new GradeBook();
+            book2.AddGrade(22);
+
+            GradeBook book3 = book;
+            book3.AddGrade(11);
 
 
             /*
