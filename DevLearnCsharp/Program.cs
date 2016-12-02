@@ -11,6 +11,7 @@ namespace DevLearnCsharp
     {
         static void Main(string[] args)
         {
+            /*
             Console.WriteLine("my first githb project");
             Console.WriteLine("this is second succesfull execution");
             Console.WriteLine("this is awesome to use git");
@@ -34,6 +35,11 @@ namespace DevLearnCsharp
             Console.ReadLine();
             goto2 g2 = new goto2();
             g2.addition();
+
+
+    */
+
+
 
         }
     }
