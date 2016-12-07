@@ -11,6 +11,8 @@ namespace DevLearnCsharp
     {
         static void Main(string[] args)
         {
+            ArrayPluralsight arra = new ArrayPluralsight();
+            arra.array();
 
             GradeBook book  = new GradeBook();    // becomes garbage ... afte secong object created
 

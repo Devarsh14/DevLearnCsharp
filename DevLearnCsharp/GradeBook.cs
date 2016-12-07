@@ -8,7 +8,7 @@ namespace DevLearnCsharp
 {
     class GradeBook
     {
-        List<float> grades; // declared list and intiated in constroctor
+       private List<float> grades; // declared list and intiated in constroctor
 
         public GradeBook()
         {

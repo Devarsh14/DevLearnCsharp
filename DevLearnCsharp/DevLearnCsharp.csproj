@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayPluralsight.cs" />
     <Compile Include="firstshare.cs" />
     <Compile Include="goto2.cs" />
     <Compile Include="GradeBook.cs" />
