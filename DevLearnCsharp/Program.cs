@@ -10,7 +10,9 @@ namespace DevLearnCsharp
     class Program
     {
         static void Main(string[] args)
+
         {
+            IntegerStdInPUT p= new IntegerStdInPUT();
             ArrayPluralsight arra = new ArrayPluralsight();
             arra.array();
 
