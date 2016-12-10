@@ -31,7 +31,7 @@ namespace DevLearnCsharp
             }
 
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < x5.Length; i++)
             {
                 Console.WriteLine("New Era array{0}", x5[i]);
             }

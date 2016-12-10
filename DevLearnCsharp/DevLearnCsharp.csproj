@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArrayPluralsight.cs" />
     <Compile Include="firstshare.cs" />
+    <Compile Include="forloopDemo.cs" />
     <Compile Include="goto2.cs" />
     <Compile Include="GradeBook.cs" />
     <Compile Include="IntegerStdInPUT.cs" />
