@@ -12,8 +12,12 @@ namespace DevLearnCsharp
         static void Main(string[] args)
 
         {
-            forloopDemo f = new forloopDemo();
-            f.fordemo();
+
+            ListExample s = new ListExample();
+
+            Console.ReadLine();
+            //forloopDemo f = new forloopDemo();
+            //f.fordemo();
 
 
 

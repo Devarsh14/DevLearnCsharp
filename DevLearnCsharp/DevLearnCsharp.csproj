@@ -49,6 +49,7 @@
     <Compile Include="goto2.cs" />
     <Compile Include="GradeBook.cs" />
     <Compile Include="IntegerStdInPUT.cs" />
+    <Compile Include="ListExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
